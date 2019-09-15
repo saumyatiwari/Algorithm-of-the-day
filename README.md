@@ -5,7 +5,7 @@ Q1: Word search in a 2D grid.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem Statem
 
 [Code1](https://github.com/Jargon4072/Algorithm-of-the-day/blob/master/word_search_chan.cpp)(By Jargon4072)  Time Complexity: O(M*N)
 
-[Code2]()(By saumyatiwari)
+[Code2](https://github.com/Jargon4072/Algorithm-of-the-day/blob/master/Saumya_Code_WordSearch.cpp)(By saumyatiwari)
 
 [Code2]()(By RamaTripathi)
 
