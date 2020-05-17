@@ -34,4 +34,4 @@ root.right = Node(20)
 root.right.left = Node(25) 
 root.right.right = Node(40) 
   
-leftView(root
+leftView(root)
